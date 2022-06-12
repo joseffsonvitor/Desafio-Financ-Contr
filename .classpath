@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DesafioMV-main/desafiomv/src/main/java"/>
+	<classpathentry kind="lib" path="C:/Users/josef/Downloads/ojdbc8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jasperreports"/>
+	<classpathentry kind="lib" path="C:/Users/josef/Downloads/commons-logging/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="output" path="DesafioMV-main/desafiomv/target/classes"/>
+</classpath>
